@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://github.com/izab3lla">
   <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=izab3lla&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <br>
   <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izab3lla&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
     
