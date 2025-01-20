@@ -18,4 +18,6 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
+##
 
+  ![Snake animation](https://github.com/guiipedroso/guiipedroso/blob/output/github-contribution-grid-snake.svg)
