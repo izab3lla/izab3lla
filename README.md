@@ -11,10 +11,7 @@
   <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izab3lla&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
     
-<br>
-<br>
-    
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="iza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="iza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
