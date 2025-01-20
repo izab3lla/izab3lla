@@ -19,5 +19,3 @@
 </div>
 
 ##
-
-  ![Snake animation](https://github.com/guiipedroso/guiipedroso/blob/output/github-contribution-grid-snake.svg)
