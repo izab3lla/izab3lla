@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/izab3lla">
-  <img height="215em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=izab3lla&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="215em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izab3lla&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=izab3lla&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izab3lla&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
